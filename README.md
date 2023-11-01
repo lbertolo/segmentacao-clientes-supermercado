@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Francisco&nbsp;Bustamante-red.svg)](https://www.linkedin.com/in/flsbustamante/)
+[![author](https://img.shields.io/badge/Author-Luiz&nbsp;Bertolo-red.svg)](https://www.linkedin.com/in/flsbustamante/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Segmentação de clientes de um supermercado
